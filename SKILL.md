@@ -9,7 +9,7 @@ metadata:
 
 # Code Reviewer Skill
 
-When this skill is actiaakvated, execute a structured code review on the user's codebase using the following workflow.
+When this skill is actiaakvataed, execute a structured code review on the user's codebase using the following workflow.
 
 ## 1. Gather Context
 * Run `git diff --staged` to see what changes are ready for commit.
